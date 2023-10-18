@@ -1,0 +1,24 @@
+{
+  "launch_path": "index.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": "*"
+    }
+  },
+  "appType": "APP",
+  "name": "Organisation Unit Code",
+  "version": "0.1.0",
+  "description": "Change organisation unit codes.",
+  "icons": {
+    "16": "favicon-16x16.png",
+    "32": "favicon-32x32.png",
+    "48": "favicon-48x48.png"
+  },
+  "developer": {
+    "name": "Terje Uglebakken",
+    "email": "terjeug@ifi.uio.no",
+    "url": "https://dhis2designlab.github.io/"
+  },
+  "manifest_generated_at": "Mon Aug 28 2023 12:50:52 GMT+0500 (Pakistan Standard Time)"
+}
